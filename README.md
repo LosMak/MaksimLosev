@@ -87,4 +87,4 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-011d2f?style=for-the-badge&logo=gmail&logoColor=ea4537)](mailto:maksim.losev@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-011d2f?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/maksim-losev/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LosMakl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LosMak&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
