@@ -51,7 +51,7 @@
 
 ### Мое резюме / CV 
 
-<a href="https://drive.google.com/file/d/1T9ZQApVbc6MOlV5EF1sxhkd_qqoayLHL/view?usp=sharing">
+<a href="https://drive.google.com">
 <img src="https://github.com/LosMak/MaksimLosev/blob/master/logo/unnamed.png" alt="CV" width="100" height="100" />
 </a>
 
@@ -83,8 +83,8 @@
 
 ### Связаться со мной / How to reach me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-011d2f?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/arteimn)
-[![Gmail](https://img.shields.io/badge/-Gmail-011d2f?style=for-the-badge&logo=gmail&logoColor=ea4537)](mailto:intqap@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-011d2f?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/artem-novoselov-6a9806262/)
+[![Telegram](https://img.shields.io/badge/-Telegram-011d2f?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/makslosev)
+[![Gmail](https://img.shields.io/badge/-Gmail-011d2f?style=for-the-badge&logo=gmail&logoColor=ea4537)](mailto:maksim.losev@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-011d2f?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/maksim-losev/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemNovosel&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LosMakl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
