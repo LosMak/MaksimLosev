@@ -83,8 +83,8 @@
 
 ### Связаться со мной / How to reach me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-011d2f?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/makslosev)
-[![Gmail](https://img.shields.io/badge/-Gmail-011d2f?style=for-the-badge&logo=gmail&logoColor=ea4537)](mailto:maksim.losev@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-011d2f?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/maksim-losev/)
+[![Telegram](https://t.me/makslosev)
+[![Gmail](mailto:maksim.losev@hotmail.com)
+[![LinkedIn](https://www.linkedin.com/in/maksim-losev/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LosMak&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
