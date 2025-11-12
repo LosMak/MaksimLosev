@@ -83,8 +83,8 @@
 
 ### Связаться со мной / How to reach me
 
-Telegram:*[@makslosev] (https://t.me/makslosev)*
-Email:maksim.losev@hotmail.com
-LinkedIn:https://www.linkedin.com/in/maksim-losev/
+Telegram:*[@makslosev](https://t.me/makslosev)*
+LinkedIn: *https://www.linkedin.com/in/maksim-losev/*
+Email: *maksim.losev@hotmail.com*
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LosMak&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
