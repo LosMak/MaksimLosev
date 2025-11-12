@@ -83,7 +83,7 @@
 
 ### Связаться со мной / How to reach me
 
-Telegram:*[@makslosev](https://t.me/makslosev)*
+Telegram: *[@makslosev](https://t.me/makslosev)*
 LinkedIn: *https://www.linkedin.com/in/maksim-losev/*
 Email: *maksim.losev@hotmail.com*
 
