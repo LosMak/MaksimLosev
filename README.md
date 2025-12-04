@@ -51,7 +51,7 @@
 
 ### Мое резюме / CV 
 
-<a href="https://drive.google.com">
+<a href="https://drive.google.">
 <img src="https://github.com/LosMak/MaksimLosev/blob/master/logo/unnamed.png" alt="CV" width="100" height="100" />
 </a>
 
