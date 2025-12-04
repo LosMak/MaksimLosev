@@ -75,7 +75,7 @@
 
 ### Тестовая документация / Test documentation
 
-<a href="https://drive.google.com/file/d/1T9ZQApVbc6MOlV5EF1sxhkd_qqoayLHL/view?usp=sharing">
+<a href="/view?usp=sharing">
 <img src="https://github.com/LosMak/MaksimLosev/blob/master/logo/tests.png" alt="Testdocs" width="100" height="100" />
 </a>
 
